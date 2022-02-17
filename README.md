@@ -1,10 +1,11 @@
 ## Welcome to my GitHub Perfil!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorenzo-librelon-40b663214/)](https://www.linkedin.com/in/lorenzo-librelon-40b663214/)
 
-### -
+
+### Abount Me:
 I`m Lorenzo, 20yo and here i post some of my programming studies
 
-**Hope u enjoy :smile: 
+**Hope u enjoy! :smile: 
 
 ---
 
