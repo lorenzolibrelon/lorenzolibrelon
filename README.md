@@ -3,7 +3,7 @@
 
 
 ### Abount Me:
-Im Lorenzo, 20yo and here i post some of my programming studies
+Im Lorenzo, 21yo and here i post some of my programming studies
 ---
 
 ### Techs:
