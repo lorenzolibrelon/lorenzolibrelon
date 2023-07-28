@@ -1,5 +1,5 @@
 ## Welcome to my GitHub Perfil!
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorenzo-librelon-40b663214/)](https://www.linkedin.com/in/lorenzo-librelon-40b663214/)
+[![Linkedin Badge]([https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorenzo-librelon-40b663214/)](https://www.linkedin.com/in/lorenzo-librelon-40b663214/](https://www.linkedin.com/in/lorenzo-librelon-b0886a285/))
 
 
 ### Abount Me:
